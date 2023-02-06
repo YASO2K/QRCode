@@ -1,0 +1,30 @@
+body{
+    background-color:hsl(212, 45%, 89%) ;
+    font-family: 'Outfit', sans-serif;
+   
+}
+.main{
+    background-color: white;
+    height: 27rem;
+    width: 18rem;
+    margin: 80px auto;
+    border-radius: 5%;
+    text-align: center;
+   
+
+}
+.qr{
+    width: 90%;
+    margin: 10px;
+    border-radius: 5%;
+}
+.heading{
+    width: 75%;
+    margin: 10px auto;
+}
+.paragraf{
+    width: 85%;
+    margin: auto;
+    font-size: 15px ;
+    color: grey;
+}
